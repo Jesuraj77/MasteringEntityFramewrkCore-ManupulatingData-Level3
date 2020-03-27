@@ -1,0 +1,8 @@
+E:\Shilpa\23-03-2020\Manupulating Data\Level3\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+E:\Shilpa\23-03-2020\Manupulating Data\Level3\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+E:\Shilpa\23-03-2020\Manupulating Data\Level3\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+E:\Shilpa\23-03-2020\Manupulating Data\Level3\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+E:\Shilpa\23-03-2020\Manupulating Data\Level3\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+E:\Shilpa\23-03-2020\Manupulating Data\Level3\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+E:\Shilpa\23-03-2020\Manupulating Data\Level3\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+E:\Shilpa\23-03-2020\Manupulating Data\Level3\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
